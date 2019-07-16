@@ -1,0 +1,11 @@
+1- a) Classe é um molde, um modelo, a partir
+do qual os objetos podem ser criados, ou seja,
+objetos são instâncias em memória na classe.
+Pode se criar vários objetos a partir de uma classe.
+
+b) São métodos especiais invocados no momento da criação dos
+objetos,eles garantem a inicialização correta do objeto.
+
+c) Permite restringir o acesso a variáveis e métodos da classe, determinando o nível de acesso dos elementos da classe
+(variáveis e métodos) utilizando-se dos qualificadores: public, protected e private. Pode evitar que usuários alterem diretamente uma variável saldo
+de um objeto ContaBancária, por exemplo.
